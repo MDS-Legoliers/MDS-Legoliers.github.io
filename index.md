@@ -1,4 +1,4 @@
-![Byron Regional](Misc-content/Byron Regional/ByronRegional2017.jpg)
+![Byron Regional](/Misc-content/Byron Regional/ByronRegional2017.jpg)
 
 ## Welcome to Mount de Sales Legoliers Webpage
 
