@@ -1,3 +1,5 @@
+![Byron Regional](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/25299311_1514395405281517_6422002564024246732_n.jpg?oh=00f0b22491e1a46088039afecc4ab0a4&oe=5AFD1C1D)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MDS-Legoliers/MDS-Legoliers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
