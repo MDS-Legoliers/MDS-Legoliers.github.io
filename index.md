@@ -2,7 +2,7 @@
 
 ## Welcome to Mount de Sales Legoliers Webpage
 
-The Legoliers are cuurently preparing for HydroDynamics SuperRegionals in Warner Robins GA after the Byron Regionals where they received 4th place in Robot competition and 1st place in the Project design competitio.  The team is composed of 6, 7 and 8th grade students attending  [Mount de Sales Academy](www.mountdesales.net) in Macon GA. 
+The Legoliers are cuurently preparing for HydroDynamics SuperRegionals in Warner Robins GA after the Byron Regionals where they received 4th place in Robot competition and 1st place in the Project design competitio.  The team is composed of 6, 7 and 8th grade students attending  [Mount de Sales Academy](http://www.mountdesales.net) in Macon GA. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
